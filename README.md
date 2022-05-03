@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🤔 &nbsp; Sou movido a desafios e adoro completar eles com pessoas ao meu lado.
 - 🎓 &nbsp; Formado **ADS** na <a href="https://www.fateccruzeiro.edu.br/index">Fatec Cruzeiro</a>.
 - 💼 &nbsp; Trabalhando como **Analista Desenvolvedor Júnior PL/SQL | Node | Java** na Liax.
-- 🌱 &nbsp; Aprendendo mais sobre **PL/SQL | Node | Java**.
+- 🌱 &nbsp; Aprendendo mais sobre **PL/SQL | Java**.
 - 💙 &nbsp; I love git 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
