@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Linguagens conhecidas**
+
+
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
